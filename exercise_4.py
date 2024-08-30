@@ -16,7 +16,7 @@ print(texting.replace("world", "there"))  # Output: Hello, there!
 # 3. f-Strings:
 
 name = "Muhammad Shahzad"
-age = 35
+age = 28
 
 print(f"Hello, my name is {name} and I am {age} years old.")
 # 4. Operators:
