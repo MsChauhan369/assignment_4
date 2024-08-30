@@ -59,7 +59,7 @@ numbers = (5, 19, 40)
 print(numbers[0]) # Output: 5
 #numbers[0] = 5 # This will raise an error as tuples are immutable
 
-# coordinates[0] = 5 # This will raise an error as tuples are immutable
+# numbers[0] = 5 # This will raise an error as tuples are immutable
 
 # 7. For Loops:
 
