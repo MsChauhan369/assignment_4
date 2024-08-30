@@ -1,6 +1,6 @@
 # 1. Print Statements:
 name = "shahzad"
-age = 35
+age = 28
 
 print("Hello, my name is", name, "and I am", age, "years old.")
 print(f"Hello, my name is {name} and I am {age} years old.")
